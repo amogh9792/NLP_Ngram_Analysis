@@ -1,0 +1,30 @@
+Text: nonexudative armd nonexudative armd practice essentials background pathophysiology nonexudative armd... | Score: 5724
+Text: atrial septal defect atrial septal defect problem epidemiology etiology atrial septal defect workup ... | Score: 5493
+Text: complications myocardial infarction complications myocardial infarction overview arrhythmic complica... | Score: 5930
+Text: heatstroke heatstroke background pathophysiology epidemiology heatstroke clinical presentation histo... | Score: 4856
+Text: tilttable testing tilttable testing background indications contraindications tilttable testing perip... | Score: 2024
+Text: brain anatomy brain anatomy overview gross anatomy cerebrum gross anatomy cortex brain anatomy overv... | Score: 3085
+Text: auditory system anatomy auditory system anatomy overview cochlear nerve central auditory pathways ne... | Score: 3336
+Text: bariatric surgery bariatric surgery background history procedure problem bariatric surgery workup la... | Score: 4465
+Text: pediatric appendicitis organismspecific therapy pediatric appendicitis organismspecific therapy orga... | Score: 461
+Text: ankle block ankle block overview anatomy medications ankle block overview anatomy medications overvi... | Score: 1279
+Text: kaposi sarcoma treatment protocols kaposi sarcoma treatment protocols treatment protocols kaposi sar... | Score: 1662
+Text: prostate cancer treatment protocols prostate cancer treatment protocols treatment protocols prostate... | Score: 2258
+Text: breast cancer staging breast cancer staging tnm classification breast cancer breast cancer staging t... | Score: 1004
+Text: malaria organismspecific therapy malaria organismspecific therapy specific organisms therapeutic reg... | Score: 873
+Text: nonbacterial noninfectious cystitis nonbacterial noninfectious cystitis background anatomy pathophys... | Score: 5107
+Text: thyroidstimulating hormone thyroidstimulating hormone reference range interpretation collection pane... | Score: 956
+Text: management dental patient neurological disease management dental patient neurological disease overvi... | Score: 1924
+Text: creatinine clearance creatinine clearance reference range interpretation collection panels creatinin... | Score: 1180
+Text: chads2 score stroke risk assessment atrial fibrillation chads2 score stroke risk assessment atrial f... | Score: 361
+Text: hyponatremia hyponatremia practice essentials background pathophysiology hyponatremia clinical prese... | Score: 5962
+Text: hysterectomy hysterectomy background history procedure problem hysterectomy workup laboratory studie... | Score: 3157
+Text: esophageal cancer esophageal cancer practice essentials background pathophysiology esophageal cancer... | Score: 6981
+Text: bipolar affective disorder bipolar affective disorder practice essentials background pathophysiology... | Score: 10827
+Text: phobic disorders phobic disorders practice essentials background pathophysiology phobic disorders cl... | Score: 6703
+Text: benign positional vertigo emergency medicine benign positional vertigo emergency medicine background... | Score: 3750
+Text: cleft lip palate mouth pharynx deformities cleft lip palate mouth pharynx deformities overview embry... | Score: 3620
+Text: sleepdisordered breathing cpap sleepdisordered breathing cpap overview sleepdisordered breathing pat... | Score: 5892
+Text: neonatal pustular melanosis neonatal pustular melanosis background epidemiology neonatal pustular me... | Score: 997
+Text: physical child abuse physical child abuse practice essentials background pathophysiology physical ch... | Score: 8784
+Text: gaucher disease gaucher disease practice essentials background pathophysiology gaucher disease clini... | Score: 4596
